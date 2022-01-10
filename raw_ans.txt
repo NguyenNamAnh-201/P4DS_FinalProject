@@ -1,0 +1,19 @@
+$$ I/  Collecting data =============================
+What subject is your data about? What is the source of your data?
+	This is about Melbourne Housing Market,
+	Source: https://www.kaggle.com/anthonypino/melbourne-housing-market
+
+Do authors of this data allow you to use like this? You can check the data license
+	Should I hold off even longer in buying a two bedroom apartment in Northcote? 
+		<-- This is the real reason for me in publishing this dataset :)
+	data license: CC BY-NC-SA 4.0  => free to share ( copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material)
+ 
+How did authors collect data?
+	This data was scraped from publicly available results posted every week from Domain.com.au, 
+	I've cleaned it as best I can, now it's up to you to make data analysis magic. 
+	The dataset includes 
+		Address, Type of Real estate, Suburb, Method of Selling, Rooms, Price, Real Estate Agent, Date of Sale and distance from C.B.D.
+
+
+$$ II/ Exploring data (often interleaved with preprocessing) ================= 
+
