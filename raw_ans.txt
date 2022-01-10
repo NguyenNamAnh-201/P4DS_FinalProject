@@ -16,4 +16,44 @@ How did authors collect data?
 
 
 $$ II/ Exploring data (often interleaved with preprocessing) ================= 
+	Done in 
+$$ III/ Asking meaningful questions
+	Your group needs to give ≥ the-number-of-group-members 
+	questions which can be answered with this data
 
+Những câu hỏi có khả thi: 
+1) Tình trạng xảy ra hiện tượng <tp đáng sống nhất> bong bóng nhà đất, giá nhà đất bị tăng lên
+	Dựa vào biến 
+		type (phân loại nhà), ngày (Date), khu vực (region name) so với trung tâm thương mại
+		Khoảng cách (distance), khả năng có thêm method.
+	
+	CHART:
+	Biểu đồ đường 3 đường,  biểu diễn 3 năm trục ngang là tháng trục chính là tiền
+	Heat map cho tháng trong năm, nhận biết được hiện trạng tiền, giá đất nhà đang nằm trong top nào 
+	
+	Bar chart để phân loại 3 types (gồm t, h, u)
+
+Tổng dữ liệu có được: 63023
+	Dữ liệu có được dựa biến <type> phân loại ngôi nhà 
+		t: 6315 dữ liệu nhà mặt phố
+		*h: 45053 dữ liệu thu đc (house,cottage,villa, semi,terrace)
+		u: 11655 dữ liệu thu đc (unit, duplex)
+	Dữ liệu có được dựa biến <method> kiểu bất động sản của ngôi nhà
+		*s:  tài sản đã bán có 34063 dữ liệu thu đc
+		sp: tài sản đã bán trước đó có 8916 data
+		pi: property passed in 9790
+		pn: sold prior not disclosed 651
+		SN - sold not disclosed 2674
+		NB - no bid
+		VB - vendor bid;
+		W - withdrawn prior to auction;
+		SA - sold after auction;
+		SS - sold after auction price not disclosed.
+		N/A - price or highest bid not available.
+	
+	Đại lý bất động sản nào là top seller ? câu hỏi ngoài luồng  
+
+REFERENCE: https://www.kaggle.com/janiobachmann/melbourne-comprehensive-housing-market-analysis
+
+
+$$IV/
