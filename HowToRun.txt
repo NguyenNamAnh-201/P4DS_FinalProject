@@ -1,0 +1,7 @@
+Bước 1: Phải cài đặt môi trường min_ds-env.
+Bước 2: Chọn đúng thư mục chưa file MELBOURNE_HOUSE_PRICES_LESS_main.ipynb
+Bước 3: Mở Command Prompt trong thư mục đó hoặc sử dụng câu lệnh "cmd" tại địa chỉ thư mục
+Bước 3: Kích hoạt môi trường min_ds-env bằng câu lệnh "conda activate min_ds-env".
+Bước 4: Để mở jupyter notebook bằng câu lệnh "jupyter notebook".
+Bước 5: Mở file MELBOURNE_HOUSE_PRICES_LESS_main.ipynb.
+Bước 6: Chọn Kernel -> Restart & Run all.
