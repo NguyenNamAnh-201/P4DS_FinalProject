@@ -14,3 +14,7 @@ Melbourne hiện đang trải qua bong bóng nhà đất (một số chuyên gia
 
 ## Project Timeline
 Các mốc thời gian làm việc [link](https://docs.google.com/spreadsheets/d/1QiavFOJZiqfZNMK0v9ZURAj1ke6YWq3y1VMmErmeXhw/edit?usp=sharing).
+
+## How to Run
+Mở jupyter notebook, tiếp đến mở file MELBOURNE_HOUSE_PRICES_LESS_main.ipynb.
+Cuối cùng tiến hành "Chọn Kernel -> Restart & Run all". 
